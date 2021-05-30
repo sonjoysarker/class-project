@@ -1,2 +1,2 @@
-# class-project
-it id my fist project  
+# class-project-first   
+it is my fist project  
